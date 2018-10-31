@@ -1,0 +1,29 @@
+{
+  "name": "fcc-api-microservice-exercise",
+  "version": "0.1.0",
+  "description": "A REST API project, fcc project 2 for api & microservices track",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^5.3.7",
+    "mongodb": "^3.1.8",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.1",
+    "shortid": "^2.2.6"
+  },
+  "engines": {
+    "node": "6.9.1"
+  },
+  "repository": {
+    "url": "https://gomix.com/#!/project/welcome-project"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "gomix",
+    "express"
+  ]
+}
